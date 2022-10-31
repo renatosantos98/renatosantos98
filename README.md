@@ -8,4 +8,4 @@ Feel free to check out my repositories and use the channels above if you wish to
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatosantos98&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatosantos98&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatosantos98&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
