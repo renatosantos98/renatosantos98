@@ -30,7 +30,7 @@ Technologies I'm skilled in:
 
 Highlighted research publications:
 
-- Santos R, Moreno-Torres V, Pintos I, Corral O, de Mendoza C, Soriano V, Corpas M. Low-coverage whole genome sequencing for a highly selective cohort of severe COVID-19 patients. bioRxiv. 2024:2024-01.
+- [Santos R, Moreno-Torres V, Pintos I, Corral O, de Mendoza C, Soriano V, Corpas M. Low-coverage whole genome sequencing for a highly selective cohort of severe COVID-19 patients. Gigabyte. 2024 Jun 20;2024:1-20.](https://doi.org/10.46471/gigabyte.127)
 
 ---
 
