@@ -6,7 +6,7 @@
 
 Hi! I'm Renato, a Bioinformatician and PhD student specializing in genomics approaches to understanding disease, particularly neurodegenerative disorders.
 
-I'm currently a DRIVE-Health PhD Student & Research Assistant at King's College London, investigating the gut-brain axis in motor neuron disorders through bioinformatics and machine learning approaches.
+I'm currently a DRIVE-Health PhD Student and a Research Assistant at King's College London, investigating the gut-brain axis in motor neuron disorders through bioinformatics and machine learning approaches.
 
 Feel free to explore my work or reach out through the channels below if you wish to connect!
 
