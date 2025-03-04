@@ -4,8 +4,10 @@
 
 </div>
 
-Hi! I'm Renato and I'm a Bioinformatician specialising in genomics approaches to understanding disease.<br />
-I currently work as Research Assistant at King's College London while pursuing an MSc in Genomic Medicine at Imperial College London.<br />
+Hi! I'm Renato, a Bioinformatician and PhD student specializing in genomics approaches to understanding disease, particularly neurodegenerative disorders.
+
+I'm currently a DRIVE-Health PhD Student & Research Assistant at King's College London, investigating the gut-brain axis in motor neuron disorders through bioinformatics and machine learning approaches.
+
 Feel free to explore my work or reach out through the channels below if you wish to connect!
 
 ---
@@ -22,7 +24,7 @@ Feel free to explore my work or reach out through the channels below if you wish
 
 Technologies I'm skilled in:
 
-`Nextflow` `Python` `SQL` `Bash` `Docker` `Git`
+`Nextflow` `Python` `SQL` `Bash` `Docker` `Git` `HPC`
 
 ---
 
