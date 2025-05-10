@@ -20,17 +20,9 @@ Feel free to explore my work or reach out through the channels below if you wish
 
 ---
 
-### 🔬 Tech Stack
-
-Technologies I'm skilled in:
-
-`Nextflow` `Python` `SQL` `Bash` `Docker` `Git` `HPC`
-
----
-
 ### 📝 Publications
 
-Highlighted research publications:
+- [Santos R, Lee H, Williams A, Baffour-Kyei A, Lee SH, Troakes C, Al-Chalabi A, Breen G, Iacoangeli A. Investigating the performance of Oxford Nanopore long-read sequencing with respect to Illumina microarrays and short-read sequencing. International Journal of Molecular Sciences. 2025 May 8;26(10):4492.](https://doi.org/10.3390/ijms26104492)
 
 - [Santos R, Moreno-Torres V, Pintos I, Corral O, de Mendoza C, Soriano V, Corpas M. Low-coverage whole genome sequencing for a highly selective cohort of severe COVID-19 patients. Gigabyte. 2024 Jun 20;2024:1-20.](https://doi.org/10.46471/gigabyte.127)
 
