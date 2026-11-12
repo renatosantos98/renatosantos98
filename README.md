@@ -14,9 +14,7 @@ Feel free to explore my work or reach out through the channels below if you wish
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatosantos98&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatosantos98&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 ---
 
