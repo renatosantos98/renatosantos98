@@ -41,5 +41,9 @@ Feel free to explore my work or reach out if you wish to connect!
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatosantos98/renatosantos98/cards/streaks-dark.svg">
   <img src="https://raw.githubusercontent.com/renatosantos98/renatosantos98/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatosantos98/renatosantos98/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/renatosantos98/renatosantos98/cards/repos-light.svg" width="400" alt="Top repos">
+</picture>
 </p>
 <!-- cool-readme:end -->
